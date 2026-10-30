@@ -1,0 +1,10 @@
+# Compiled Java files
+*.class
+out/
+bin/
+
+# VS Code workspace settings
+.vscode/
+
+# IDE files
+.idea/

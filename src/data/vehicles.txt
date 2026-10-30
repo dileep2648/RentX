@@ -1,0 +1,5 @@
+# TYPE|ID|BRAND|MODEL|DAILY_RATE|AVAILABLE
+CAR|C101|Toyota|Corolla|55.0|false
+CAR|C102|Honda|Civic|60.0|true
+BIKE|B201|Yamaha|MT-15|25.0|true
+BIKE|B202|Royal Enfield|Classic-350|32.0|true
